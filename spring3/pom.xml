@@ -74,6 +74,7 @@
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>spring3</wtpContextName>
+					 <outputDirectory>${dir}</outputDirectory>
 				</configuration>
 			</plugin>
 
